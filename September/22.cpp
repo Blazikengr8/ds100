@@ -1,12 +1,15 @@
-#include<bits/stdc++.h>
+// https://practice.geeksforgeeks.org/problems/0cba668df04d657fde4d1bd28b626a01e61097f1/1#
+#include <bits/stdc++.h>
 using namespace std;
-int repeatedStringMatch(string A, string B) 
+class Solution{
+    public:
+    int repeatedStringMatch(string A, string B) 
     {
        int n=A.length();
        int m=B.length();
-       string Ao=A;
        int c=1;
        int flag=0;
+       string Ao=A;
        if(n<=2*m)
        {
        while(n<=2*m)
@@ -24,7 +27,10 @@ int repeatedStringMatch(string A, string B)
               c++;
           }
        }
+       if(flag==1)
        return c;
+       else
+       return -1;
        }
        else
        {
@@ -39,9 +45,18 @@ int repeatedStringMatch(string A, string B)
           }
        }
     }
-    int main()
+  
+};
+int main(){
+    int t;
+    cin>>t;
+    while(t--)
     {
-        string s,s1;
-        cin>>s>>s1;
-        cout<<repeatedStringMatch(s,s1)<<endl;
+        string A,B;
+        cin>>A;
+        cin>>B;
+        Solution obj;
+        cout<<obj.repeatedStringMatch(A,B)<<"\n";
     }
+    return 0;
+}
