@@ -4,3 +4,4 @@
 * [23 Sept](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)
 * [24 Sept](https://practice.geeksforgeeks.org/problems/cb02d40f50b0113c47cd9036e5f340bb51b32289/1#)
 * [28 Sept](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#)
+* [29 Sept](https://practice.geeksforgeeks.org/problems/2caf0501a39567d653197364a2b5c8a9f5943b7e/1#)
