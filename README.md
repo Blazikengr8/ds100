@@ -5,3 +5,4 @@
 * [24 Sept](https://practice.geeksforgeeks.org/problems/cb02d40f50b0113c47cd9036e5f340bb51b32289/1#)
 * [28 Sept](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#)
 * [29 Sept](https://practice.geeksforgeeks.org/problems/2caf0501a39567d653197364a2b5c8a9f5943b7e/1#)
+* [30 Sept](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1#)
