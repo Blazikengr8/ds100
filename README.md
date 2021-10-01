@@ -6,3 +6,4 @@
 * [28 Sept](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#)
 * [29 Sept](https://practice.geeksforgeeks.org/problems/2caf0501a39567d653197364a2b5c8a9f5943b7e/1#)
 * [30 Sept](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1#)
+* [1 October](https://practice.geeksforgeeks.org/problems/check-for-bst/1#)
