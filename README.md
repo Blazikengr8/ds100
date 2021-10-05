@@ -9,3 +9,4 @@
 * [1 October](https://practice.geeksforgeeks.org/problems/check-for-bst/1#)
 * [2 October](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1)
 * [3 October](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
+* [5 October](https://practice.geeksforgeeks.org/problems/water-connection-problem5822/1)
