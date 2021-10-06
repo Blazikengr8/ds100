@@ -10,3 +10,4 @@
 * [2 October](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1)
 * [3 October](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 * [5 October](https://practice.geeksforgeeks.org/problems/water-connection-problem5822/1)
+* [6 October](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)
