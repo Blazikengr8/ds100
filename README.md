@@ -12,3 +12,4 @@
 * [5 October](https://practice.geeksforgeeks.org/problems/water-connection-problem5822/1)
 * [6 October](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)
 * [10 October](https://practice.geeksforgeeks.org/problems/3b76f77c1b2107f809b1875aa9fe929ce320be97/1)
+* [13 October](https://practice.geeksforgeeks.org/problems/interleaved-strings/1)
