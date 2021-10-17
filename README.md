@@ -14,3 +14,4 @@
 * [10 October](https://practice.geeksforgeeks.org/problems/3b76f77c1b2107f809b1875aa9fe929ce320be97/1)
 * [13 October](https://practice.geeksforgeeks.org/problems/interleaved-strings/1)
 * [15 October](https://practice.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/1#)
+* [17 October](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1)
