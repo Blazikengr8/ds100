@@ -17,3 +17,4 @@
 * [17 October](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1)
 * [19 October](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
 * [21 October](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
+* [22 October](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
