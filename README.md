@@ -18,3 +18,6 @@
 * [19 October](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
 * [21 October](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 * [22 October](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+* [23 October](https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1)
+* [24 October](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#)
+* [25 October](https://practice.geeksforgeeks.org/problems/6b216f3d1f1ce9a14258b982d44f5e5199e7759a/1)
