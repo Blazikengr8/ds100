@@ -21,3 +21,4 @@
 * [23 October](https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1)
 * [24 October](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#)
 * [25 October](https://practice.geeksforgeeks.org/problems/6b216f3d1f1ce9a14258b982d44f5e5199e7759a/1)
+* [26 October](https://practice.geeksforgeeks.org/problems/7ba682ec660335b1627f2183f63bd2c8a37391ec/1)
