@@ -24,3 +24,4 @@
 * [26 October](https://practice.geeksforgeeks.org/problems/7ba682ec660335b1627f2183f63bd2c8a37391ec/1)
 * [02 November](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1)
 * [06 November](https://practice.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/1)
+* [10 November](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
