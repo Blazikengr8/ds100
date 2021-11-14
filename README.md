@@ -27,3 +27,4 @@
 * [10 November](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
 * [11 November](https://practice.geeksforgeeks.org/problems/count-the-number-of-subarrays/1#)
 * [12 November](https://practice.geeksforgeeks.org/problems/possible-paths3834/1)
+* [14 November](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1)
