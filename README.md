@@ -28,3 +28,4 @@
 * [11 November](https://practice.geeksforgeeks.org/problems/count-the-number-of-subarrays/1#)
 * [12 November](https://practice.geeksforgeeks.org/problems/possible-paths3834/1)
 * [14 November](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1)
+* [16 November](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
