@@ -32,3 +32,5 @@
 * [19 November](https://practice.geeksforgeeks.org/problems/word-ladder-ii/1)
 * [20 November](https://practice.geeksforgeeks.org/problems/0f02fb492c69c094d94e806cba6ff8d8cd04d630/1)
 * [23 November](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
+* [24 November](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
+* [25 November](https://practice.geeksforgeeks.org/problems/minimum-sum4058/1#)
