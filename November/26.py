@@ -1,10 +1,10 @@
-# https://practice.geeksforgeeks.org/problems/money-distributions5924/1
+#https://practice.geeksforgeeks.org/problems/money-distributions5924/1 yoo
 import math
 class Solution:
 	def totalWays(self, N, k):
 		MOD = 1000000007
 		if k > n:
-	        return 0
+	        return  0
         ans = math.factorial(n-1)//(math.factorial(n-k) * math.factorial(k-1))
         return ans%MOD
 
